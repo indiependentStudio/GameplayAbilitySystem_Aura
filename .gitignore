@@ -1,0 +1,21 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# dave's customer entries
+*BuiltData.uasset
+Demo_Scene.umap
+Build
+release
+Content/Assets
